@@ -1,0 +1,6 @@
+@FULLSTACK_CRUD_FUNCIONARIOS_HostAddress = http://localhost:5081
+
+GET {{FULLSTACK_CRUD_FUNCIONARIOS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
