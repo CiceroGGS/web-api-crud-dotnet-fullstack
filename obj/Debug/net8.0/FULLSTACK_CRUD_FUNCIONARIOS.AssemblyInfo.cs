@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FULLSTACK_CRUD_FUNCIONARIOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e009f4f8dd4670e1c1f6a8dc2e19ab033eecf0a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05cbe8453c3def08491ee4eac45274523e98f341")]
 [assembly: System.Reflection.AssemblyProductAttribute("FULLSTACK_CRUD_FUNCIONARIOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FULLSTACK_CRUD_FUNCIONARIOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
